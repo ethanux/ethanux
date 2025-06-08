@@ -27,8 +27,8 @@ I'm passionate about building robust web services, command-line tools, and APIs 
 
 ## 📫 How to reach me ...
 - 📧 jeff@versityfinds.co.za
-- website  : jeff.versityfinds.co.za
-- latet project : [versityfinds.co.za](versityfinds.co.za)  (ecommerce site : online marketplace ) 
+- website  : [jeff.versityfinds.co.za](jeff.versityfinds.co.za)
+- my latet project : [versityfinds.co.za](versityfinds.co.za)  (ecommerce site : online marketplace ) 
 
 ## 😄 Pronouns:
 He/Him
