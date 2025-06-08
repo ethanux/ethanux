@@ -26,15 +26,15 @@ I'm passionate about building robust web services, command-line tools, and APIs 
 - IoT and automation tools
 
 ## 📫 How to reach me ...
-📧 jeff@versityfinds.co.za
-website  : jeff.versityfinds.co.za
-latet project : [versityfinds.co.za] (versityfinds.co.za)  (ecommerce site : online marketplace ) 
+- 📧 jeff@versityfinds.co.za
+- website  : jeff.versityfinds.co.za
+- latet project : [versityfinds.co.za](versityfinds.co.za)  (ecommerce site : online marketplace ) 
 
 ## 😄 Pronouns:
 He/Him
 
 ## ⚡ Fun fact:
-I enjoy exploring the boundaries between software and hardware, and love crafting tools that make everyday development smoother and smarter.
+i am a backend web dveloper but TBH I enjoy exploring the boundaries between software and hardware, and love crafting tools that make everyday development smoother and smarter.
 
 <!---
 ethanux/ethanux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
