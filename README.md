@@ -1,17 +1,18 @@
-# 👋 Hi, I’m @ethanux
+# 👋 Hi, I’m Jeff Nengovhela
 
 I'm passionate about building robust web services, command-line tools, and APIs — and I love sharing the knowledge I gain along the way.
 
 ## 👀 I’m interested in ...
-- API development
-- Backend and microservices architecture
-- Systems programming & OS internals
-- Embedded systems and IoT
-- Linux system administration (file and process monitoring & management)
-- Scripting and automation
-- Artificial Intelligence (especially NLP)
+- REST API/web development mostly using python (Flask, django , FastAPi, html, CSS, Javascript, vue.js)
+- Backend and microservices architecture using python (django, Flask) and Java (Springboot)
+- Systems programming & OS internals using C/C++, Go 
+- Embedded systems and IoT using C/C++ , Python  
+- Linux system administration (file and process monitoring & management) 
+- Scripting and automation using bash, python, C++ 
+- Artificial Intelligence (especially NLP) Just Python it was made for it :)
 
 ## 🌱 I’m currently learning ...
+- Java for applications development, and java advance concepts. Java for REST API/ micosevice development
 - Go for systems programming, scripting, and web services
 - Low-level programming and understanding hardware-software interaction
 - Advanced Linux administration and system internals
@@ -26,6 +27,8 @@ I'm passionate about building robust web services, command-line tools, and APIs 
 
 ## 📫 How to reach me ...
 📧 jeff@versityfinds.co.za
+website  : jeff.versityfinds.co.za
+latet project : [versityfinds.co.za] (versityfinds.co.za)  (ecommerce site : online marketplace ) 
 
 ## 😄 Pronouns:
 He/Him
